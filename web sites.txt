@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel ="stylesheet" href="designs.css"> 
+</head>
+<body>
+
+    <div>
+        <form class = "forms">
+            <button class = "buttons1"> Home </button>
+            <button class = "buttons2"> Products</button>
+            <button class = "buttons3"> Resources</button>
+            <button class = "buttons4"> Pricing</button>
+        </form> 
+
+    </div>
+    
+    <div class = "div1">
+        <form class = "forms2">
+            <button class = "buttons5">New Feature</button>
+            <button class = "button6"> Check out the team dashboard -></button>
+        </form>
+    </div>
+
+    <div class = "title1">
+        <h1 class = "title1"> Beautiful analytics to grow faster</h1>
+    </div>
+
+    <div class = "p">
+        <p class = "p"> Powerful, self-serve product and growth analytics to help you convert , engage, and retain more users. Trusted by over 4,000 startups</p>
+    </div>
+    
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+.buttons1{
+    background-color: transparent;
+    border:none;
+    padding: 15px 32px;
+    display: flex;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.forms{
+    background-color: white;
+    display: flex;
+    size: 50%;
+
+}
+
+.buttons2{
+    background-color: transparent;
+    border:none;
+    padding: 15px 32px;
+    display: flex;
+    font-size: 20px;
+    margin-left: -35px;
+}
+
+.buttons3{
+    background-color: transparent;
+    border:none;
+    padding: 15px 32px;
+    display: flex;
+    font-size: 20px;
+    margin-left: -35px;
+}
+
+.buttons4{
+    background-color: transparent;
+    border:none;
+    padding: 15px 32px;
+    display: flex;
+    font-size: 20px;
+    margin-left: -35px;
+}
+
+.buttons5{
+    background-color: white;
+    border:none;
+    padding: 15px 32px;
+    display: flex;
+    font-size: 11px;
+    margin-left: 5px;
+    margin-top: 4px;
+    margin-bottom: 5px;
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 200px;
+    font-weight: bold;
+    
+}
+
+.button6{
+    background-color:transparent;
+    border:none;
+    padding: 15px 32px;
+    display: flex;
+    font-size: 15px;
+    margin-left: 4px;
+    margin-top: 4px;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+    border-radius: 200px;
+    font-weight: bold;
+}
+
+.forms2{
+    background-color: lightgreen;
+    display: flex;
+    justify-content: center;
+    border-radius: 200px;
+    margin-top: 50px;
+
+}
+
+.title1{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-style: bold;
+}
+
+.p{
+    display: flex;
+    justify-content: center;
+    text-emphasis-color: grey;
+}
+
+
+
+
+

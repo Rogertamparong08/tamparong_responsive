@@ -1,0 +1,99 @@
+.buttons1{
+    background-color: transparent;
+    border:none;
+    padding: 15px 32px;
+    display: flex;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.forms{
+    background-color: white;
+    display: flex;
+    size: 50%;
+
+}
+
+.buttons2{
+    background-color: transparent;
+    border:none;
+    padding: 15px 32px;
+    display: flex;
+    font-size: 20px;
+    margin-left: -35px;
+}
+
+.buttons3{
+    background-color: transparent;
+    border:none;
+    padding: 15px 32px;
+    display: flex;
+    font-size: 20px;
+    margin-left: -35px;
+}
+
+.buttons4{
+    background-color: transparent;
+    border:none;
+    padding: 15px 32px;
+    display: flex;
+    font-size: 20px;
+    margin-left: -35px;
+}
+
+.buttons5{
+    background-color: white;
+    border:none;
+    padding: 15px 32px;
+    display: flex;
+    font-size: 11px;
+    margin-left: 5px;
+    margin-top: 4px;
+    margin-bottom: 5px;
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 200px;
+    font-weight: bold;
+    
+}
+
+.button6{
+    background-color:transparent;
+    border:none;
+    padding: 15px 32px;
+    display: flex;
+    font-size: 15px;
+    margin-left: 4px;
+    margin-top: 4px;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+    border-radius: 200px;
+    font-weight: bold;
+}
+
+.forms2{
+    background-color: lightgreen;
+    display: flex;
+    justify-content: center;
+    border-radius: 200px;
+    margin-top: 50px;
+
+}
+
+.title1{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-style: bold;
+}
+
+.p{
+    display: flex;
+    justify-content: center;
+    text-emphasis-color: grey;
+}
+
+
+
+
+
